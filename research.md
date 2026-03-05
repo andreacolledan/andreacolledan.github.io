@@ -1,7 +1,3 @@
-layout: page
-title: "Publications"
-permalink: /publications
-
 # Research
 
 From 2021 to 2025 I was a PhD student at the University of Bologna, under the supervision of [Ugo Dal Lago](https://udallago.github.io/). My research interests included (and still include) quantum programming languages, type systems, and the static analysis of the resource consumption of quantum programs. I'm the maintainer of the [QuRA](https://github.com/andreacolledan/qura) tool.
