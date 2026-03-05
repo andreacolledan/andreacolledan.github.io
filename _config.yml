@@ -1,5 +1,13 @@
-theme: jekyll-theme-minimal
+favicon: true
 
+logo: /assets/img/propic.jpg
 title: Andrea Colledan
 description: Backend developer and programming language enthusiast
-logo: /assets/img/propic.jpg
+
+sidebar:
+  - name: Research
+    link: /research/
+
+remote_theme: BDHU/minimalist
+plugins:
+  - jekyll-remote-theme
