@@ -3,6 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
+
 # Research
 
 From 2021 to 2025 I was a PhD student at the University of Bologna, under the supervision of [Ugo Dal Lago](https://udallago.github.io/). To this day, my research interests include quantum programming languages, type systems, and the static analysis of the resource consumption of quantum programs. I'm the maintainer of the [QuRA](https://github.com/andreacolledan/qura) tool.
@@ -16,3 +17,7 @@ From 2021 to 2025 I was a PhD student at the University of Bologna, under the su
 **Andrea Colledan**, [Ugo Dal Lago](https://udallago.github.io/), and [Niki Vazou](https://nikivazou.github.io/). 2025. [Circuit Width Estimation via Effect Typing and Linear Dependency](https://doi.org/10.1145/3737282). TOPLAS,  Volume 47 , Issue 3.
 
 **Andrea Colledan** and [Ugo Dal Lago](https://udallago.github.io/). 2023. [On Dynamic Lifting and Effect Typing in Circuit Description Languages](https://doi.org/10.4230/LIPIcs.TYPES.2022.3). Proc. of TYPES 2022. 
+
+## Doctoral Thesis
+
+**Andrea Colledan**. 2025. [Resource verification of quantum circuit description languages](https://amsdottorato.unibo.it/id/eprint/12082/). Dissertation thesis. Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Computer science and engineering, 37 Ciclo.
