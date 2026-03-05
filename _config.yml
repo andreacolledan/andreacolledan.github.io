@@ -5,8 +5,13 @@ title: Andrea Colledan
 description: Backend developer and programming language enthusiast
 
 sidebar:
+  - name: Projects
+    link: /projects
   - name: Research
     link: /research/
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/andreacolledan
 
 remote_theme: BDHU/minimalist
 plugins:
