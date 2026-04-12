@@ -16,6 +16,9 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/andreacolledan
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-square-linkedin"></i>
+    link: https://www.linkedin.com/in/andrea-colledan/
 
 remote_theme: BDHU/minimalist
 plugins:

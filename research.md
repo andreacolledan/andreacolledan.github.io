@@ -20,4 +20,4 @@ From 2021 to 2025 I was a PhD student at the University of Bologna, under the su
 
 ## Doctoral Thesis
 
-**Andrea Colledan**. 2025. [Resource verification of quantum circuit description languages](https://amsdottorato.unibo.it/id/eprint/12082/). Dissertation thesis. Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Computer science and engineering, 37 Ciclo.
+**Andrea Colledan**. 2025. [Resource verification of quantum circuit description languages](https://amsdottorato.unibo.it/id/eprint/12082/). Dissertation thesis. Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Computer science and engineering, 37° Ciclo.
